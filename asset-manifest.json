@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/adarsh/static/css/main.a617e044.chunk.css",
+    "main.js": "/adarsh/static/js/main.9ff0c3de.chunk.js",
+    "main.js.map": "/adarsh/static/js/main.9ff0c3de.chunk.js.map",
+    "runtime-main.js": "/adarsh/static/js/runtime-main.dd7c7156.js",
+    "runtime-main.js.map": "/adarsh/static/js/runtime-main.dd7c7156.js.map",
+    "static/js/2.a3f9498d.chunk.js": "/adarsh/static/js/2.a3f9498d.chunk.js",
+    "static/js/2.a3f9498d.chunk.js.map": "/adarsh/static/js/2.a3f9498d.chunk.js.map",
+    "static/js/3.c1a6c033.chunk.js": "/adarsh/static/js/3.c1a6c033.chunk.js",
+    "static/js/3.c1a6c033.chunk.js.map": "/adarsh/static/js/3.c1a6c033.chunk.js.map",
+    "index.html": "/adarsh/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/adarsh/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.a3f9498d.chunk.js.LICENSE.txt": "/adarsh/static/js/2.a3f9498d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd7c7156.js",
+    "static/js/2.a3f9498d.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.9ff0c3de.chunk.js"
+  ]
+}
